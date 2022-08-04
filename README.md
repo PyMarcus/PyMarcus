@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="" style="max-width: 100%;"> </a>
     
 </p>
+
+
+
+
+
+<img src="https://camo.githubusercontent.com/7aeba5db7d6f7179f96b54b96dfc9afc1476845211699a71c1077e11eef95e4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d736861646f77727567652673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="shadowruge" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=shadowruge&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;" align="middle">

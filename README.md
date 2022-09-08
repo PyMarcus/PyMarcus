@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyMarcus&hide=html)](https://github.com/PyMarcus/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyMarcus&hide=TeX,html)](https://github.com/anuraghazra/github-readme-stats)

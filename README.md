@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="git" width="40" height="40" style="max-width: 100%;" data-canonical-src="">
 </p>
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyMarcus"/>

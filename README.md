@@ -29,3 +29,9 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyMarcus&hide=TeX,html,CSS,Cython&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+### Artigo publicado em:
+
+https://web.dio.me/articles/business-intelligence?back=%2Farticles&page=1&order=oldest

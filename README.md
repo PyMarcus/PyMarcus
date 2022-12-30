@@ -32,6 +32,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyMarcus&hide=TeX,VueJs,html,CSS,Cython&layout=compact&langs_count=11&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+![matrix-red-gif-4](https://user-images.githubusercontent.com/88283829/210034321-4661679b-2766-42a2-b806-b776b320eb8c.gif)
+
+
 </div>
 
 ### Artigo publicado em:

@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **PyMarcus/PyMarcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 <div style="margin: auto 0;" align="center">
      
      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C0C&width=435&lines=%F0%9F%94%B4Bem+Vindo(a)!%F0%9F%94%B4;%F0%9F%94%B4You%C2%B4re+welcome!%F0%9F%94%B4;%F0%9F%94%B4Willkommen!%F0%9F%94%B4;%F0%9F%94%B4%D0%B4%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C!%F0%9F%94%B4;%F0%9F%94%B4%E6%AC%A2%E8%BF%8E!%F0%9F%94%B4;%F0%9F%94%B4I%C2%B4m+Marcus+%3A)!%F0%9F%94%B4)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70C0C&width=435&lines=%F0%9F%94%B4Bem+Vindo(a)!%F0%9F%94%B4;%F0%9F%94%B4You%C2%B4re+welcome!%F0%9F%94%B4;%F0%9F%94%B4Willkommen!%F0%9F%94%B4;%F0%9F%94%B4%D0%B4%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C!%F0%9F%94%B4;%F0%9F%94%B4%E6%AC%A2%E8%BF%8E!%F0%9F%94%B4;%F0%9F%94%B4I%C2%B4m+Marcus+%3A)!%F0%9F%94%B4" alt="Typing SVG" /></a>
 
 
      

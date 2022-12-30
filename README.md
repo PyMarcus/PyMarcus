@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 
 </div>
 
-### Artigo publicado em:
+### A short article published in:
 
 https://web.dio.me/articles/business-intelligence?back=%2Farticles&page=1&order=oldest

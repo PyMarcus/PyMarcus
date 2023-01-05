@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 
 <br>
 
+![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyMarcus&show_icons=true&theme=transparent)
+
+<br>
+
 ![matrix-red-gif-4](https://user-images.githubusercontent.com/88283829/210034321-4661679b-2766-42a2-b806-b776b320eb8c.gif)
 
 

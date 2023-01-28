@@ -51,4 +51,10 @@ Here are some ideas to get you started:
 
 ### A short article published in:
 
-https://web.dio.me/articles/business-intelligence?back=%2Farticles&page=1&order=oldest
+<details open="">
+    <table>
+         <td>https://web.dio.me/articles/business-intelligence?back=%2Farticles&page=1&order=oldest</td>
+     </table>
+    </details>
+
+

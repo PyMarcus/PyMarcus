@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Top Langs](https://ionicabizau.github.io/github-profile-languages/api.html?PyMarcus)](https://ionicabizau.github.io/github-profile-languages/api.html?PyMarcus)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyMarcus&hide=TeX,VueJs,html,CSS,Cython&layout=compact&langs_count=11&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>

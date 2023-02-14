@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </p>
 
 
-/*[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyMarcus&hide=TeX,VueJs,html,CSS,Cython&layout=compact&langs_count=11&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)*/
+<--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyMarcus&hide=TeX,VueJs,html,CSS,Cython&layout=compact&langs_count=11&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=PyMarcus"> ![image](https://user-images.githubusercontent.com/88283829/218609639-1dd8f717-3f44-4d79-b908-9d928b8dbefa.png) </a>
 

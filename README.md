@@ -38,21 +38,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyMarcus&hide=TeX,VueJs,html,CSS,Cython&layout=compact&langs_count=11&theme=maroongold)](https://ionicabizau.github.io/github-profile-languages/api.html?PyMarcus)
 
-user(login: "rjoydip") {
-    repositories(isFork: false, first: 100) {
-      nodes {
-        languages(first: 5) {
-          edges {
-            size
-            node {
-              color
-              name
-            }
-          }
-        }
-      }
-    }
-  }
 
 
 <br>

@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 </p>
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+<br><br>
 
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=PyMarcus"> ![image](https://user-images.githubusercontent.com/88283829/218609639-1dd8f717-3f44-4d79-b908-9d928b8dbefa.png) </a>
 

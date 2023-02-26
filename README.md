@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/91be18bebd8afe5f89a4fb59eeb04ab47b5729a29c868185ee5221407a741c87/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" alt="git" width="40" height="40" style="max-width: 100%;" data-canonical-src="">
 </p>
 
-
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
 
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=PyMarcus"> ![image](https://user-images.githubusercontent.com/88283829/218609639-1dd8f717-3f44-4d79-b908-9d928b8dbefa.png) </a>
 

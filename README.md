@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 <br><br>
 
-<a href="http://ionicabizau.github.io/github-profile-languages/?user=PyMarcus"> ![image](https://user-images.githubusercontent.com/88283829/218609639-1dd8f717-3f44-4d79-b908-9d928b8dbefa.png) </a>
 
 <img src="https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572">
 

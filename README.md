@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/PyMarcus/PyMarcus/assets/88283829/e95a071b-bad8-4b66-8c96-75bfaf2b973a.gif" width="200">
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyMarcus&layout=compact&hide=css,html)
+
 
 ### A short article published in:
 

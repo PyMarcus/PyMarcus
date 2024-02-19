@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center" dir="auto"> 
+
      
+     ![py](https://github.com/PyMarcus/PyMarcus/assets/88283829/b3ff6e00-7e8c-4aec-98ff-c90538e0d9bb)
+
           
-<img src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" alt="icon" width="65" height="65" data-canonical-src="https://techstack-generator.vercel.app/python-icon.svg" style="max-width: 100%;"/>
+
 
 ![golang-horizontal](https://github.com/PyMarcus/PyMarcus/assets/88283829/c175f8a6-2907-4925-9297-c0e7e71eb814)
 

@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 <br>
 <p align="center" dir="auto"> 
 
+  ![py](https://github.com/PyMarcus/PyMarcus/assets/88283829/7571ae32-3f3b-482a-9535-f040f5b08e02)
+
      
-     ![py](https://github.com/PyMarcus/PyMarcus/assets/88283829/b3ff6e00-7e8c-4aec-98ff-c90538e0d9bb)
 
           
 

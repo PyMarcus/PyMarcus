@@ -24,10 +24,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center" dir="auto"> 
 
-![py](https://github.com/PyMarcus/PyMarcus/assets/88283829/7571ae32-3f3b-482a-9535-f040f5b08e02)
-
-<div style="width:50px; height:50px;">
-</div>
+![py](https://github.com/PyMarcus/PyMarcus/assets/88283829/7571ae32-3f3b-482a-9535-f040f5b08e02){:width="200px"}
 
      
 

@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 <p align="center" dir="auto"> 
 
 <div style="display: inline-block;">
-    ![py](https://github.com/PyMarcus/PyMarcus/assets/88283829/7571ae32-3f3b-482a-9535-f040f5b08e02){:width="200px"}
+    ![py](https://github.com/PyMarcus/PyMarcus/assets/88283829/7571ae32-3f3b-482a-9535-f040f5b08e02)
 </div>
 
 <div style="display: inline-block;">
-    ![7KEN4fZO2H](https://github.com/PyMarcus/PyMarcus/assets/88283829/41a4e0d1-eb8f-48a9-9688-42dbaf25a0c3){:width="200px"}
+    ![7KEN4fZO2H](https://github.com/PyMarcus/PyMarcus/assets/88283829/41a4e0d1-eb8f-48a9-9688-42dbaf25a0c3)
 </div>
 
           

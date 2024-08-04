@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 <details open="">
     <table>
+         <td>https://conf.researchr.org/details/esem-2024/esem-2024-emerging-results-vision-and-reflection-papers/2/Detecting-Code-Smells-using-ChatGPT-Initial-Insights.</td>
          <td>https://web.dio.me/articles/business-intelligence?back=%2Farticles&page=1&order=oldest</td>
      </table>
     </details>

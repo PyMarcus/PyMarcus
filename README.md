@@ -40,6 +40,7 @@
 
 ###
 
-![Pacman](https://raw.githubusercontent.com/pacman-css/gh-contribution-graph/main/demo/pacman.gif)
+![status](https://img.shields.io/badge/Status-Always%20learning-blue?style=flat-square&logo=go)
+
 
 ###

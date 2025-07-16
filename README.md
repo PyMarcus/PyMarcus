@@ -45,5 +45,5 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pymarcus&hide=javascript,html,css,tex&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pymarcus&hide=javascript,html,css,tex&theme=tokyonight)
 

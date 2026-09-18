@@ -2,7 +2,7 @@
 
 <!-- Animated banner with wave + gradient -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Marcus%20Vin%C3%ADcius&fontSize=48&fontColor=61AFEF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Graphs%20%26%20Reinforcement%20Learning&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Marcus%20Vin%C3%ADcius&fontSize=48&fontColor=61AFEF&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Graphs%20%26%20Reinforcement%20Learning&descAlignY=58&descAlign=50" alt="Header" />
 
 <!-- Typing effect -->
 

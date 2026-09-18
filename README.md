@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Header Animado com Typing SVG -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Marcus+%F0%9F%90%8B;Backend+Software+Engineer;Building+Scalable+Dist-Systems)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Marcus+%F0%9F%90%8B;Backend+Software+Engineer;Graph+Algorithms+%26+RL+Enthusiast" alt="Typing SVG" />
 
   <p align="center">
-    <i>Turning coffee into scalable distributed systems & high-performance code.</i>
+    <i>Turning coffee into scalable distributed systems, graph models & intelligent algorithms.</i>
   </p>
 
   <!-- Badges em linha -->
@@ -13,7 +13,7 @@
     <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 
-  <!-- Visual Tech Animado (GIF confiável de servidor estável) -->
+  <!-- Visual Tech Animado -->
   <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="500" alt="Coding Animation" />
 
 </div>
@@ -50,7 +50,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=pymarcus&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="130" alt="Trophy Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pymarcus&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="130" alt="Trophy Graph" />
 </div>
 
 ---
@@ -58,5 +58,6 @@
 ### 🔭 Core Focus & Technical Expertise
 
 - **Backend Architecture:** Go, Python, Java/Kotlin, C#, SQL & NoSQL Databases.
+- **Computer Science & AI:** Graph Theory & Algorithms, Reinforcement Learning (RL), Concurrent Systems.
 - **Cloud & DevOps:** Docker, Kubernetes, AWS.
-- **Current Interests:** Microservices architecture, GraphQL, and concurrent systems.
+- **Current Interests:** Distributed graph processing, Microservices, and GraphQL APIs.

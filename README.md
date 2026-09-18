@@ -71,8 +71,6 @@ marcus:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pymarcus&theme=synthwave&hide_border=true" height="180" alt="Streak" />
 </div>
 
-> 💡 I kept only the streak card because it was the only one among the dynamic card services that responded during your test. The others (`github-readme-stats`, `top-langs`, `activity-graph`, `profile-trophy`) are currently down — see below for how to fix this permanently.
-
 <br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/pymarcus/pymarcus/main/leds.svg" alt="LED strip" />

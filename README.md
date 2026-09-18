@@ -9,8 +9,8 @@
 <!-- Badges (shields.io + komarev — stable, tested, and working CDNs) -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
+  <a href="https://linkedin.com/in/marcusvrandrade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:marcus-v@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
   <a href="https://github.com/pymarcus"><img src="https://img.shields.io/github/followers/pymarcus?style=for-the-badge&color=61AFEF&labelColor=000000&logo=github&logoColor=white&label=FOLLOWERS" /></a>
   <img src="https://komarev.com/ghpvc/?username=pymarcus&style=for-the-badge&color=61AFEF&labelColor=000000&label=PROFILE+VIEWS" />
 </p>

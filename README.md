@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated self-hosted banner (does not depend on any third-party service) -->
+<!-- Animated self-hosted banner (does not depend on any third-party service) --> 
 
 <img width="100%" src="https://raw.githubusercontent.com/pymarcus/pymarcus/main/header.svg" alt="Header" />
 
